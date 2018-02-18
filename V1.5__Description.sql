@@ -1,3 +1,3 @@
-insert into haine.wp_haine  values ('5','papuci','wwww');
+insert into haine.wp_haine  values ('6','papuci','wwww');
 
 commit;
